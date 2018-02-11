@@ -4,3 +4,5 @@ Flask-JWT
 uwsgi
 psycopg2
 Flask-SQLAlchemy
+gunicorn
+
